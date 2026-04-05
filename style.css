@@ -1,0 +1,169 @@
+body {
+	font-family: "Arial";
+	background-color: #336666;
+	color: #FFFFFF;
+	text-align: center;
+}
+.invisible {
+	color: #336666;
+	font-size: 9px;
+}
+.title {
+	color: #FFFFFF;
+	font-size: 14px;
+}
+.grande {
+	color: #FFFFFF;
+	font-size: 24px;
+}
+.semlink {
+	color: #999999;
+}
+.pequeno {
+	color: #FFFFFF;
+	font-size: 9px;
+}
+.pequeno2 {
+	color: #FFFFFF;
+	font-size: 12px;
+}
+.pequeno3 {
+	color: #CCCC99;
+	font-size: 12px;
+	font-weight: bold;
+}
+.pequeno4 {
+	color: #FFFFFF;
+	font-size: 14px;
+}
+.pequeno5 {
+	color: #CCCC99;
+	font-size: 14px;
+	font-weight: bold;
+}
+.novo {
+	color: #CCCC99;
+	font-size: 12px;
+	font-weight: bold;
+}
+.subtitle1 {
+	font-family: "Arial";
+	font-weight: bold;
+	color: #FFFFFF;
+	font-size: 18px;
+}
+.subtitle2 {
+	font-weight: bold;
+	color: #CCCC99;
+}
+
+.subtitle3 {
+	font-family: "Arial";
+	font-weight: bold;
+	color: #CCCC99;
+	font-size: 18px;
+}
+
+.subtitle4 {
+	font-weight: bold;
+	color: #FFFFFF;
+}
+
+.quote {
+font-family: Arial, Helvetica, sans-serif;
+font-size: 17px;
+}
+
+table {
+	text-align: justify;
+}
+
+.tipotabela {
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #999999;
+	border-right-color: #000000;
+	border-bottom-color: #000000;
+	border-left-color: #999999;
+	border-top-width: 1px;
+}
+.celula3dbaixo {
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #000000;
+	border-right-color: #999999;
+	border-bottom-color: #999999;
+	border-left-color: #000000;
+	font-size: 12px;
+	text-align: center;
+}
+.celula3dalto {
+	border: 1px solid #336666;
+	font-size: 12px;
+}
+
+.tipotabelaprincipal {
+	background-color: #009999;
+	border: none;
+}
+
+.tipotabelalinhas {
+	background-color: #00996B;
+	border: none;
+}
+
+.tipotabelapessoas {
+	background-color: #64B1C8;
+	border: none;
+}
+
+.tipotabelafotos {
+	background-color: #336666;
+	border: none;
+}
+
+.tipotabelanoticias {
+	background-color: #30C095;
+	border: none;
+}
+
+.tipotabelaimprensa {
+	background-color: #6CAD61;
+	border: none;
+}
+
+.tipotabelasimples {
+	border: 1px solid #999999;
+}
+
+.ccelula {
+	border: 1px solid #999999;
+}
+
+.scelula {
+	border: 1px solid #336666;
+}
+
+.commenthidden {display:none}
+
+a:link {
+	color: #FFFFFF;
+	text-decoration: underline;
+}
+a:visited {
+	color: #FFFFFF;
+	text-decoration: underline;
+}
+a:hover {text-decoration: none;}
